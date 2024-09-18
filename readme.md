@@ -10,6 +10,6 @@ Official documentation for Forms & Html for The Laravel Framework can be found a
 
 ### Some projects still use Laravelcollective/Html. This package is a fork of official laravelcollctive/html to support laravel 10 and 11.
 ## Installation
-`composer require xenon/collective`
+`composer require xenon/laravelhtml-collective`
 
 ### class and other files are still same as before; no changes
