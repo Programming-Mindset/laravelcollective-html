@@ -8,5 +8,8 @@
 
 Official documentation for Forms & Html for The Laravel Framework can be found at the [LaravelCollective](https://laravelcollective.com/docs) website.
 
-## Replacement
-If you're looking to replace this package due to it's retirement we recommend using [Shift](https://laravelshift.com/convert-laravelcollective-html-to-spatie-laravel-html)
+### Some projects still use Laravelcollective/Html. This package is a fork of official laravelcollctive/html to support laravel 10 and 11.
+## Installation
+`composer require xenon/collective`
+
+### class and other files are still same as before; no changes
